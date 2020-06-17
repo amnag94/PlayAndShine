@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "292829799230",
+    "firebase_url": "https://sports-sos.firebaseio.com",
+    "project_id": "sports-sos",
+    "storage_bucket": "sports-sos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292829799230:android:81e17f2ad2ccce9058826f",
+        "android_client_info": {
+          "package_name": "com.example.sportssos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292829799230-iucbjrecrjd3tep21c540i5d9hidi4f6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sportssos",
+            "certificate_hash": "7ed453a75b24563b4f8d3972296b3c6c36d69e35"
+          }
+        },
+        {
+          "client_id": "292829799230-86fmpfpvkq1n9kmibgqedrpqhhg1t1am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAUN5K87-D5WpNievS8hbnc4FBukhXJnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292829799230-86fmpfpvkq1n9kmibgqedrpqhhg1t1am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
